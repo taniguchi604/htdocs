@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+body {
+}
+
+div#wrapper ul li dl dt {
+	float: left;
+	width: 200px;
+	height: 100px;
+	background-color: #dcdddf;
+}
+
+div#wrapper ul li dl dd {
+	width: 200px;
+	height: 100px;
+	background-color: yellow;
+}
